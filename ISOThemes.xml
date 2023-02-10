@@ -2,7 +2,7 @@
 
 <themes>
 
-<data xmls="https://raw.githubusercontent.com/InfinityModsOFC/iOSThemes/main/xml/" walls="https://raw.githubusercontent.com/InfinityModsOFC/iOSThemes/main/walls/" scs="https://raw.githubusercontent.com/InfinityModsOFC/iOSThemes/main/screens/"/>
+<data xmls="https://raw.githubusercontent.com/TRiOSDev/ThemeStore/main/xml/" walls="https://raw.githubusercontent.com/TRiOSDev/ThemeStore/main/walls/" scs="https://raw.githubusercontent.com/TRiOSDev/ThemeStore/main/screens/"/>
 
 <theme>
 <title>Dinux_Dark_iOS</title>
